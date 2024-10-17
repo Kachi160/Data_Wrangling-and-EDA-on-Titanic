@@ -1,1 +1,1 @@
-# Data_Wranglung-and-EDA-on-Titanic
+# Data_Wrangling-and-EDA-on-Titanic
